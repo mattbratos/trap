@@ -4,13 +4,13 @@
 ## topic
 intro track to the album. introducing my world to the audience
 
-## lyrics 
+## lyrics
 
-[hook x 2]
+[chorus x 2]
 hello world, wszystko znów rozpierdolone
 siopa na minusie w sercu error za errorem
-chaos bracie mam na klacie, chaos siostro ciągle w głowie 
-rano czuję się jak śmieć, nocą czasem czuję bogiem 
+chaos bracie mam na klacie, chaos siostro ciągle w głowie
+rano czuję się jak śmieć, nocą czasem czuję bogiem
 
 [verse 1]
 znowu całą noc pisałem kod na adderallu
@@ -29,10 +29,8 @@ bo nie chcę przed nim spierdalać kiedyś
 po ścianach jak jebany Książę Persji (persjiiii)
 
 
-[hook x 2]
+[chorus x 2]
 hello world, wszystko znów rozpierdolone
 siopa na minusie w sercu error za errorem
-chaos bracie mam na klacie, chaos siostro ciągle w głowie 
+chaos bracie mam na klacie, chaos siostro ciągle w głowie
 rano czuję się jak śmieć, nocą czasem czuję bogiem
-
-
